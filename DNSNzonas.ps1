@@ -21,6 +21,6 @@ for ($i=01;$i -lt 31;$i++)
     $OSOA = Get-DnsServerResourceRecord -ZoneName $QueZona -RRType SOA
     $NSOA = Get-DnsServerResourceRecord -ZoneName $QueZona -RRType SOA
     $NSOA.RecordData.PrimaryServer = "ns1.$QueZona."
-    $NSOA.RecordData.SerialNumber = "2015101308"
+    $NSOA.RecordData.SerialNumber = "2020101308"
     Set-DnsServerResourceRecord -NewInputObject $NSOA -OldInputObject $OSOA -ZoneName $QueZona
  }
