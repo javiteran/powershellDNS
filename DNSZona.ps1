@@ -1,6 +1,6 @@
 #Creacion y eliminacion de una zona
 #Este script debe ejecutarse en el servidor DNS donde quieres que se cree la zona.
-#Si no es asa deberia usarse el parametro -computername  en TODAS LAS LINEAS
+#Si no es asi deberia usarse el parametro -computername  en TODAS LAS LINEAS
 
 $QueZona ='mizona.local'
 
