@@ -1,5 +1,4 @@
-# powershellDNS
-Creación de Zonas DNS con powershell
+# Manejo del DNS windows utilizando powershell. :collision:
 
 - [x] Archivo de creación de una zona DNS.              Add-DnsServerPrimaryZone 
 - [x] Archivo de creación de N zonas DNS.               Add-DnsServerPrimaryZone 
