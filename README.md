@@ -11,3 +11,5 @@ Creación y borrado de Reenviadores Condicionales. | Add-DnsServerConditionalFor
 Creacion de zonas delegadas.                      | Add-DnsServerZoneDelegation
   
  # :toolbox:
+
+![Tarea de zonas delegadas DNS](/images/DNSZonasDelegadas1.PNG)
